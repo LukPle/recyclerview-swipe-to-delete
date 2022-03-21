@@ -9,7 +9,11 @@ The application serves as an example of these features.
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity. 
-The user can remove items from the list by swiping them to the left.
+The user can remove items from the list by swiping them to the left. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
